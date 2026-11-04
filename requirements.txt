@@ -1,0 +1,2 @@
+# For development and notebooks. Runtime dependencies are defined in pyproject.toml.
+-e .[dev]

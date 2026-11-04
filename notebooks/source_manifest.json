@@ -1,0 +1,41 @@
+[
+  {
+    "public_file": "00_wide_to_long_reference.ipynb",
+    "role": "Course transformation reference",
+    "source_file_sha256": "cffea3c982fd86bb102e55f5de910534fb641ed90e0d5e3f52f1ed87cac8aa7b",
+    "saved_outputs_cleared": true,
+    "archived_file": "archive/00_wide_to_long_reference.ipynb",
+    "active_version": "original course reference",
+    "active_code_sha256": "3d8ac74e3007d365ebcfbf1a8bd3a30aac999a56f11b14c0540d9e1cb41e195f",
+    "archive_code_sha256": "3d8ac74e3007d365ebcfbf1a8bd3a30aac999a56f11b14c0540d9e1cb41e195f",
+    "archive_source_cells_preserved": true,
+    "archive_cell_order_preserved": true,
+    "change_log": "../docs/notebook-changes.md"
+  },
+  {
+    "public_file": "01_checkpoint1_data_and_metrics.ipynb",
+    "role": "Checkpoint 1 analysis",
+    "source_file_sha256": "f9e379b6637738ecf902b6812fc6dee372acb7cc49d9b66f323345ad1190bc10",
+    "saved_outputs_cleared": true,
+    "archived_file": "archive/01_checkpoint1_data_and_metrics.ipynb",
+    "active_version": "execution-ready project edition",
+    "active_code_sha256": "7229bbe9b5a8fa83762359b9d90fbb708b325364da55fdfba016770acbd44966",
+    "archive_code_sha256": "f8cc9b55d47ad954934fbc62f5aea8ae17ec89c3595f889d9f1a1fc1ba195f09",
+    "archive_source_cells_preserved": true,
+    "archive_cell_order_preserved": true,
+    "change_log": "../docs/notebook-changes.md"
+  },
+  {
+    "public_file": "02_checkpoint2_brand_and_division.ipynb",
+    "role": "Checkpoint 2 analysis",
+    "source_file_sha256": "b7eecf38ea4eefd4455580d480ca52e4657267dc46974484f370e02808b61fa3",
+    "saved_outputs_cleared": true,
+    "archived_file": "archive/02_checkpoint2_brand_and_division.ipynb",
+    "active_version": "execution-ready project edition",
+    "active_code_sha256": "3719c5375c0a099988978bfe267f2aaa033f0d6c91d48229158057c7f13e3126",
+    "archive_code_sha256": "58ef9d31a9c9dfdf772b8b9cb5390c0c1e84c6be00d4ea292afdc2043a8bfd81",
+    "archive_source_cells_preserved": true,
+    "archive_cell_order_preserved": true,
+    "change_log": "../docs/notebook-changes.md"
+  }
+]

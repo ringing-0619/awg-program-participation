@@ -1,0 +1,20 @@
+[
+  {
+    "file": "checkpoint-1-client-presentation.pptx",
+    "title": "Checkpoint 1 client presentation",
+    "slides": 16,
+    "sha256": "2f7810b53bdc6b6a4863cbe95ee87cf49bd96515e536086e5ac6e77b540ba7e9",
+    "source_content_preserved": true,
+    "embedded_workbooks": 0,
+    "external_relationships": 0
+  },
+  {
+    "file": "checkpoint-2-client-presentation.pptx",
+    "title": "Checkpoint 2 final client presentation",
+    "slides": 32,
+    "sha256": "24ae2ae898e31fe3b57a88c82e629b1125395fc4f3a20c4fda369810fed48f3c",
+    "source_content_preserved": true,
+    "embedded_workbooks": 0,
+    "external_relationships": 0
+  }
+]

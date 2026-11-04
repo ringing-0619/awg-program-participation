@@ -1,0 +1,110 @@
+[
+  {
+    "file": "historical_early_sales_by_program.png",
+    "source_presentation": "Checkpoint 1 client presentation",
+    "source_slide": 8,
+    "source_asset": "ppt/media/image5.png",
+    "image_sha256": "8c50536e58d9ea0a7771888a26c180328526165fdc47b4a485bb07b06072f801",
+    "modified": false,
+    "classification": "original client-presentation chart; attributed source asset"
+  },
+  {
+    "file": "historical_brand_program_log_sales.png",
+    "source_presentation": "AWG Program Participation Analysis.pptx",
+    "source_slide": 19,
+    "source_asset": "ppt/media/image21.png",
+    "image_sha256": "f36d143acf49b30fb145ad6fa50a5fcaaf81c3d079b3a9900f720dfc6f512385",
+    "modified": false,
+    "classification": "original client-presentation chart; attributed source asset"
+  },
+  {
+    "file": "historical_division_program_samples.png",
+    "source_presentation": "AWG Program Participation Analysis.pptx",
+    "source_slide": 21,
+    "source_asset": "ppt/media/image15.png",
+    "image_sha256": "736e10b7e31953f41245bee7d6515fc6a7fde3b6ed8bd22838716165c837aa71",
+    "modified": false,
+    "classification": "original client-presentation chart; attributed source asset"
+  },
+  {
+    "file": "historical_sc_program_contrasts.png",
+    "source_presentation": "AWG Program Participation Analysis.pptx",
+    "source_slide": 22,
+    "source_asset": "ppt/media/image8.png",
+    "image_sha256": "4dc152cd4dd7391d93a4cff51a74151f529c8065cd8df179f277da25dfd98fa0",
+    "modified": false,
+    "classification": "original client-presentation chart; attributed source asset"
+  },
+  {
+    "file": "historical_hn_program_contrasts.png",
+    "source_presentation": "AWG Program Participation Analysis.pptx",
+    "source_slide": 23,
+    "source_asset": "ppt/media/image12.png",
+    "image_sha256": "d3fa9736e8a069cc39d52e729fc71d9f841e49773f5faff8e36ae86e61874732",
+    "modified": false,
+    "classification": "original client-presentation chart; attributed source asset"
+  },
+  {
+    "file": "historical_sp_program_contrasts.png",
+    "source_presentation": "AWG Program Participation Analysis.pptx",
+    "source_slide": 24,
+    "source_asset": "ppt/media/image9.png",
+    "image_sha256": "575de5921bee9de6cc1a47be343ac1eeb688f625d937852f0e62dc8948bbd465",
+    "modified": false,
+    "classification": "original client-presentation chart; attributed source asset"
+  },
+  {
+    "file": "historical_ke_program_contrasts.png",
+    "source_presentation": "AWG Program Participation Analysis.pptx",
+    "source_slide": 25,
+    "source_asset": "ppt/media/image19.png",
+    "image_sha256": "274085b1330cbefa48c9798ae1d98115aeacea367387f762593a0d3793c40d4f",
+    "modified": false,
+    "classification": "original client-presentation chart; attributed source asset"
+  },
+  {
+    "file": "historical_no_program_contrasts.png",
+    "source_presentation": "AWG Program Participation Analysis.pptx",
+    "source_slide": 26,
+    "source_asset": "ppt/media/image5.png",
+    "image_sha256": "ce96d9aa5a6881985aa721763e716f86444ffc628bb253a53fc3654a3fca38a2",
+    "modified": false,
+    "classification": "original client-presentation chart; attributed source asset"
+  },
+  {
+    "file": "historical_kc_program_contrasts.png",
+    "source_presentation": "AWG Program Participation Analysis.pptx",
+    "source_slide": 27,
+    "source_asset": "ppt/media/image23.png",
+    "image_sha256": "ac119266b84bd9cf59f4eb9f048f85d051189bf673cd2241d44ec9a0f91ebdcc",
+    "modified": false,
+    "classification": "original client-presentation chart; attributed source asset"
+  },
+  {
+    "file": "historical_go_program_contrasts.png",
+    "source_presentation": "AWG Program Participation Analysis.pptx",
+    "source_slide": 28,
+    "source_asset": "ppt/media/image14.png",
+    "image_sha256": "5cbdfdeb753a8121c7dbd8f8a1e9da971117497e02543d2409d35a335808603f",
+    "modified": false,
+    "classification": "original client-presentation chart; attributed source asset"
+  },
+  {
+    "file": "historical_gc_program_contrasts.png",
+    "source_presentation": "AWG Program Participation Analysis.pptx",
+    "source_slide": 29,
+    "source_asset": "ppt/media/image20.png",
+    "image_sha256": "1b525a95b391475c0003095ef0dfc269d91f3124e1e1285fc18484960684c141",
+    "modified": false,
+    "classification": "original client-presentation chart; attributed source asset"
+  },
+  {
+    "file": "historical_ok_program_contrasts.png",
+    "source_presentation": "AWG Program Participation Analysis.pptx",
+    "source_slide": 30,
+    "source_asset": "ppt/media/image17.png",
+    "image_sha256": "f721b7b28c041bb72f4d3ab701ee9237839c22b4fcdacd63ba6c53abb866e46a",
+    "modified": false,
+    "classification": "original client-presentation chart; attributed source asset"
+  }
+]
