@@ -13,4 +13,4 @@ The project connects retail data preparation, KPI design, regression analysis, a
 | Client communication | Connected client interviews, metric definitions, segment profiles, and recommendations across two client presentations | [Complete presentations](../presentations/README.md) |
 | Reproducible analysis | Preserved original source code, documented execution changes, and packaged reusable metric and model functions with validation checks | [Original notebook archive](../notebooks/archive/README.md), [execution guide](reproducibility.md), [Python modules](../src/awg_analysis) |
 
-The resulting KPI framework and brand/division profiles support targeted program evaluation and pilot design. Twelve original chart assets and both complete presentations provide the client-facing evidence alongside the analytical code.
+The resulting KPI framework and brand/division profiles support targeted program evaluation and pilot design. Twelve original chart assets, a KPI slide preview, and both complete presentations provide the client-facing evidence alongside the analytical code.

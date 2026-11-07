@@ -1,5 +1,16 @@
 [
   {
+    "file": "historical_checkpoint1_sales_metrics.png",
+    "source_presentation": "Checkpoint 1 client presentation",
+    "source_slide": 5,
+    "source_asset": "ppt/slides/slide5.xml",
+    "source_presentation_sha256": "2f7810b53bdc6b6a4863cbe95ee87cf49bd96515e536086e5ac6e77b540ba7e9",
+    "image_sha256": "151442ba6e7d7ba2f444791f0ac71007ab139990b860da9afd324c7ad89f6611",
+    "modified": false,
+    "classification": "rendered original client-presentation slide; content preserved",
+    "render_method": "Full-slide PNG export with @oai/artifact-tool, scale 1.5"
+  },
+  {
     "file": "historical_early_sales_by_program.png",
     "source_presentation": "Checkpoint 1 client presentation",
     "source_slide": 8,

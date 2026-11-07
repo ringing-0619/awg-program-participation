@@ -2,7 +2,7 @@
 
 [Repository home](../README.md)
 
-Complete client presentations and archived source notebooks are included in the repository; client workbooks and background materials are preserved locally. The public repository provides their analytical context and twelve original chart assets: one early-sales chart from checkpoint 1, plus the brand chart, sample matrix, and nine division charts from checkpoint 2. Slide and PDF page numbers use one-based order; notebook cell references use zero-based order.
+Complete client presentations and archived source notebooks are included in the repository; client workbooks and background materials are preserved locally. The public repository provides their analytical context and twelve original chart assets: one early-sales chart from checkpoint 1, plus the brand chart, sample matrix, and nine division charts from checkpoint 2. A full-slide preview of checkpoint 1 slide 5 adds the sales and billed-quantity KPI definitions. Slide and PDF page numbers use one-based order; notebook cell references use zero-based order.
 
 | ID | Source material | Relevant sections | Analytical role |
 |---|---|---|---|

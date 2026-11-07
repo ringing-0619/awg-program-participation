@@ -15,15 +15,21 @@
 
 ## 我的贡献
 
-- **数据处理：**处理 **54万+条原始记录**，完成长表转换、数据清洗、模糊匹配与多表整合，明确**门店 × 商品 × 年月**的基础分析粒度。
-- **指标构建 · Checkpoint 1：**围绕不同参与组的新品表现，编写 Python 按**门店 × 上市批次**计算**上市次月起3个月的累计销售额和开票数量**，并计算**商品级门店覆盖率**。
-- **回归分析 · Checkpoint 2：**使用 Python 构建**项目 × 品牌 OLS交互回归模型**，通过可视化比较 **5个品牌**在不同参与组的累计销售表现。
-- **客户汇报：**制作并讲解两轮汇报中的指标设计、回归方法与品牌分析成果。
+- **数据处理：**处理 **54万+条原始记录**，完成长表转换、数据清洗、模糊匹配与多表整合，明确**门店 × 商品 × 年月**的基础分析粒度。[代码](notebooks/01_checkpoint1_data_and_metrics.ipynb)
+- **指标构建 · Checkpoint 1：**围绕不同参与组的新品表现，编写 Python 按**门店 × 上市批次**计算**上市次月起3个月的累计销售额和开票数量**，并计算**商品级门店覆盖率**。[代码](notebooks/01_checkpoint1_data_and_metrics.ipynb)
+- **回归分析 · Checkpoint 2：**使用 Python 构建**项目 × 品牌 OLS交互回归模型**，通过可视化比较 **5个品牌**在不同参与组的累计销售表现。[代码](notebooks/02_checkpoint2_brand_and_division.ipynb)
+- **客户汇报：**制作并讲解两轮汇报中的指标设计、回归方法与品牌分析成果。[第一轮第3–7页](presentations/checkpoint-1-client-presentation.pptx) · [第二轮第17–19页](presentations/checkpoint-2-client-presentation.pptx)
 
 ## 关键发现
 
 - 第一轮比较中，同时参加两项项目的门店组，**每店平均早期销售额最高**。
 - 品牌与区域分析呈现各自的项目表现，形成**品牌定向建议和区域试点优先方向**，并通过两轮客户汇报交付。
+
+**指标设计 — 第一轮第5页**
+
+![原客户汇报：按门店和上市批次汇总的三个月销售额与开票数量](reports/presentation-excerpts/historical_checkpoint1_sales_metrics.png)
+
+**品牌比较 — 第二轮第19页**
 
 ![不同品牌与项目参与类别的累计销售对数均值](reports/presentation-excerpts/historical_brand_program_log_sales.png)
 
