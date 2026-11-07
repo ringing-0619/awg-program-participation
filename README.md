@@ -13,6 +13,13 @@ A retail program analysis for AWG, completed as a **UIUC BADM550 client project*
 - **KPI design:** Defined cumulative sales, billed quantity, and purchase-based store coverage over the three full months following each item's launch, with explicit windows and denominators.
 - **Regression:** Analyzed **93,108 store-item observations** across **5 brands and 9 divisions**, using separate program × brand and program × division OLS interaction models.
 
+## My contributions
+
+- **Data preparation:** Reshaped, cleaned, fuzzy-matched, and integrated **540K+ raw records**, establishing **store × item × month** as the base analytical grain.
+- **KPI development · Checkpoint 1:** Framed new-item performance comparisons across program groups; used Python to calculate **three-month cumulative sales and billed quantity by store × launch cohort**, plus **item-level store coverage**.
+- **Regression analysis · Checkpoint 2:** Built **program × brand OLS interaction models** in Python and visualized cumulative sales patterns across **5 brands** and participation groups.
+- **Client presentations:** Created and presented slides covering KPI design, regression methods, and brand findings across both checkpoints.
+
 ## Key findings
 
 - Stores enrolled in both programs had the **highest mean early sales per store** in the first-checkpoint comparison.
