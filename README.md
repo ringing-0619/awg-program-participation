@@ -8,10 +8,9 @@ A retail program analysis for AWG, completed as a **UIUC BADM550 client project*
 
 ## Project at a glance
 
-- **Task:** Compare new-item purchasing and store coverage across AIM auto-ship and One Source merchandising participation groups to guide program evaluation.
-- **Data preparation:** Cleaned and integrated **542,564 monthly records** through reshaping, identifier standardization, and multi-table joins at store × item × month grain.
-- **KPI design:** Defined cumulative sales, billed quantity, and purchase-based store coverage over the three full months following each item's launch, with explicit windows and denominators.
-- **Regression:** Analyzed **93,108 store-item observations** across **5 brands and 9 divisions**, using separate program × brand and program × division OLS interaction models.
+- **Background:** AWG supports new-item launches through AIM auto-ship and One Source in-store merchandising.
+- **Data:** **540K+ monthly sales records**, alongside store participation lists, product attributes, and launch dates.
+- **Business question:** How do new-item purchasing and store coverage differ across participation groups, and how do these patterns vary by **brand and division**?
 
 ## My contributions
 
